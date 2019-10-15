@@ -39,5 +39,5 @@ app.listen(PORT, function () {
 const PORT = process.env.PORT || 3000; 
 app.listen(PORT,funtion () {
 >>>>>>> 701a6e295d48302c564e4b6d6bf5f796d8f2491f
-  console.log('Example app listening on port 3000!')
+  console.log('Example app is listening on port 3000!')
 })
